@@ -1,0 +1,2 @@
+[tool.poetry.dependencies]
+urllib3 = "2.2.0"
